@@ -1,0 +1,9 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///c%3A/Users/admin/OneDrive/Desktop/projects/mongo-express%20deployment%20using%20kubernetes/mongo.yaml"
+    },
+     "vs-kubernetes": {
+        "disable-linters": ["resource-limits"],
+        
+    },
+}
